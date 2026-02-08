@@ -27,10 +27,12 @@ I am also passionate about problem-solving. I enjoy tackling complex algorithms 
 ---
 
 ### 🚀 Problem Solving Profiles:
-* 🔵 [![CODEFORCES](https://img.shields.io/badge/CODEFORCES-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/anwarhossen57)
+* 🔵 [![CODEFORCES](https://img.shields.io/badge/CODEFORCES-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Anwar_Hossen1)
   > I am constantly pushing myself to solve increasingly complex problems. Competitive programming isn't just a hobby; it's a passion that sharpens my problem-solving mindset and keeps me challenged. Check out my Codeforces profile and follow my journey!
-* 🟠 [![LEETCODE](https://img.shields.io/badge/LEETCODE-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/anwarhossen57)
-  > I'm also active on LeetCode, tackling daily challenges and exploring various data structures and algorithms. Stay tuned for my profile link soon! 🔥
+* 🟠 [![LEETCODE](https://img.shields.io/badge/LEETCODE-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/anwar53/)
+  > I'm also active on LeetCode, tackling daily challenges and exploring various data structures and algorithms. Follow my progress here! 🔥
+* 🟤 [![CODECHEF](https://img.shields.io/badge/CODECHEF-brown?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/anwar_hossen53)
+  > I also participate in CodeChef contests to further enhance my algorithmic skills and efficiency.
 
 ---
 
@@ -44,11 +46,11 @@ I believe in consistent improvement and the power of practice. Competitive progr
 <a href="https://github.com/anwarhossen57" target="_blank">
   <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
 </a>
-<a href="https://www.facebook.com/yourusername" target="_blank">
+<a href="https://www.facebook.com/anwarhossen57/" target="_blank">
   <img src="https://img.shields.io/badge/FACEBOOK-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
-<a href="your-portfolio-link" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-pink?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio" />
+<a href="https://www.linkedin.com/in/anwarhossen57/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </p>
 
