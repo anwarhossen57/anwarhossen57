@@ -29,7 +29,7 @@ I am also passionate about problem-solving. I enjoy tackling complex algorithms 
 ### 🚀 Problem Solving Profiles:
 * 📊 **CODEFORCES:** [Codeforces](https://codeforces.com/profile/anwarhossen57)
   > I am constantly pushing myself to solve increasingly complex problems. Competitive programming isn't just a hobby; it's a passion that sharpens my problem-solving mindset and keeps me challenged. Check out my Codeforces profile and follow my journey!
-* 🧠 **LEETCODE:** [LeetCode](https://leetcode.com/anwarhossen57)
+* 🧠 **LEETCODE:** [LeetCode](https://leetcode.com/anwarhossen57/)
   > I'm also active on LeetCode, tackling daily challenges and exploring various data structures and algorithms. Stay tuned for my profile link soon! 🔥
 
 ---
@@ -42,7 +42,7 @@ I believe in consistent improvement and the power of practice. Competitive progr
 ### 🌐 Connect with Me:
 <p align="left">
 <a href="https://github.com/anwarhossen57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="anwarhossen57" height="30" width="40" /></a>
-<a href="[https://www.facebook.com/mdanwarhossen](https://www.facebook.com/anwarhossen57/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anwarhossen" height="30" width="40" /></a>
+<a href="https://www.facebook.com/anwarhossen57/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anwarhossen" height="30" width="40" /></a>
 </p>
 
 ---
