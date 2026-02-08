@@ -28,16 +28,22 @@ I am also passionate about problem-solving. I enjoy tackling complex algorithms 
 
 ### 🚀 Problem Solving Profiles:
 * 🔵 [![CODEFORCES](https://img.shields.io/badge/CODEFORCES-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Anwar_Hossen1)
-  > I am constantly pushing myself to solve increasingly complex problems. Competitive programming isn't just a hobby; it's a passion that sharpens my problem-solving mindset and keeps me challenged. Check out my Codeforces profile and follow my journey!
+  > I am constantly pushing myself to solve increasingly complex problems.
 * 🟠 [![LEETCODE](https://img.shields.io/badge/LEETCODE-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/anwar53/)
-  > I'm also active on LeetCode, tackling daily challenges and exploring various data structures and algorithms. Follow my progress here! 🔥
+  > I'm also active on LeetCode, tackling daily challenges and exploring various algorithms.
 * 🟤 [![CODECHEF](https://img.shields.io/badge/CODECHEF-brown?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/anwar_hossen53)
-  > I also participate in CodeChef contests to further enhance my algorithmic skills and efficiency.
+* 🟡 [![BEECROWD](https://img.shields.io/badge/BEECROWD-yellow?style=for-the-badge&logo=beecrowd&logoColor=black)](https://judge.beecrowd.com/en/profile/1010360)
+
+---
+
+### 📊 Data Science & Machine Learning:
+* 🔵 [![KAGGLE](https://img.shields.io/badge/KAGGLE-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/anwar53)
+  > As a Deep Learning enthusiast, I use Kaggle to experiment with datasets and build predictive models.
 
 ---
 
 ### 🎯 Dedication:
-I believe in consistent improvement and the power of practice. Competitive programming has been my way to stay sharp and grow as a coder. Whether it's understanding a tricky dynamic programming problem or optimizing solutions for time complexity, I'm always ready for the next challenge! 🎯
+I believe in consistent improvement and the power of practice. Competitive programming has been my way to stay sharp and grow as a coder. Whether it's optimizing solutions for time complexity or tuning a deep learning model, I'm always ready for the next challenge! 🎯
 
 ---
 
