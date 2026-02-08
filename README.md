@@ -1,43 +1,33 @@
-<h1 align="center">Hi 👋, I'm MD Anwar Hossen</h1>
-<h3 align="center">A passionate CSE Student at Presidency University specializing in Machine Learning and Deep Learning.</h3>
+# Hi there 👋, I'm Md. Anwar Hossen
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anwarhossen57" alt="anwarhossen57" /></a> </p>
+## CSE Student | Machine Learning & Deep Learning Enthusiast | Problem Solver
+---
 
-- 🔭 I’m currently working on **Deep Learning and Neural Network projects.**
+I am a **Computer Science & Engineering** student at **Presidency University** who is passionate about building intelligent systems and solving complex problems. Currently, I am focused on mastering **Machine Learning** and **Deep Learning** using Python.
 
-- 🌱 I’m currently learning **Deep Learning models and Python-based AI frameworks.**
+I also enjoy **Competitive Programming** and regularly solve problems in **C** and **C++** to sharpen my analytical and coding skills.
 
-- 👯 I’m looking to collaborate on **Open-source Machine Learning projects.**
+---
 
-- 🤝 I’m looking for help with **Advanced Data Structures and Algorithms.**
+### 👨‍💻 About Me:
+* 🚀 **Currently working on:** Building Neural Network models and Machine Learning projects.
+* 🎓 **Currently learning:** Deep Learning frameworks and advanced **Data Structures and Algorithms (DSA)**.
+* 🤝 **Looking to collaborate on:** Open-source AI/ML and Machine Learning projects.
+* 💬 **Ask me about:** Python, C++, and anything related to Machine Learning.
+* ⚡ **Fun fact:** I enjoy the thrill of solving complex competitive programming problems!
 
-- 👨‍💻 All of my projects are available at [https://github.com/anwarhossen57](https://github.com/anwarhossen57)
+---
 
-- 💬 Ask me about **Machine Learning, Python, and C/C++.**
+### ⚒️ Skills:
+* **Languages:** Python, C, C++.
+* **Data Science:** Machine Learning, Deep Learning, Neural Networks.
+* **Libraries:** Pandas, Scikit-learn.
+* **Problem Solving:** Data Structures, Algorithms, Graph Theory.
 
-- 📫 How to reach me **mdanwarhossen5358@gmail.com**
+---
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/anwarhossen57/](https://www.linkedin.com/in/anwarhossen57/)
+### 🌐 Connect with Me:
+[LinkedIn](apnar-linkedin-link) | [Email](mailto:mdanwarhossen5358@gmail.com) | [Facebook](apnar-fb-link)
 
-- ⚡ Fun fact **I enjoy solving complex competitive programming problems!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/anwarhossen57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anwarhossen57" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anwarhossen57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anwarhossen57" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/anwar53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/anwar53" height="30" width="40" /></a>
-<a href="https://fb.com/anwarhossen57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anwarhossen57" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/anwar_hossen57/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anwar_hossen57/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/anwar_hossen53" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/anwar_hossen53" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/anwar_hossen1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anwar_hossen1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/anwar53/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/anwar53/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anwarhossen57&show_icons=true&locale=en&layout=compact" alt="anwarhossen57" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anwarhossen57&show_icons=true&locale=en" alt="anwarhossen57" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anwarhossen57&" alt="anwarhossen57" /></p>
+---
+*"The best way to predict the future is to invent it."*
