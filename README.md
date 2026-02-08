@@ -10,7 +10,7 @@ I am also passionate about problem-solving. I enjoy tackling complex algorithms 
 ---
 
 ### 👨‍💻 About Me:
-* 🔭 **I'm currently working on:** Machine Learning projects.
+* 🚀 **I'm currently working on:** Machine Learning projects.
 * 🧠 **I'm currently learning:** Deep Learning and advanced **Data Structures and Algorithms (DSA)**.
 * 🤝 **I'm looking to collaborate on:** Machine Learning and AI-based projects.
 * 💬 **Ask me about:** Python, Machine Learning, Deep Learning, and C++.
@@ -27,9 +27,9 @@ I am also passionate about problem-solving. I enjoy tackling complex algorithms 
 ---
 
 ### 🚀 Problem Solving Profiles:
-* 📊 **CODEFORCES:** [Codeforces](https://codeforces.com/profile/Anwar_Hossen1)
+* 🔵 [![CODEFORCES](https://img.shields.io/badge/CODEFORCES-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/anwarhossen57)
   > I am constantly pushing myself to solve increasingly complex problems. Competitive programming isn't just a hobby; it's a passion that sharpens my problem-solving mindset and keeps me challenged. Check out my Codeforces profile and follow my journey!
-* 🧠 **LEETCODE:** [LeetCode](https://leetcode.com/u/anwar53/)
+* 🟠 [![LEETCODE](https://img.shields.io/badge/LEETCODE-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/anwarhossen57)
   > I'm also active on LeetCode, tackling daily challenges and exploring various data structures and algorithms. Stay tuned for my profile link soon! 🔥
 
 ---
@@ -41,8 +41,15 @@ I believe in consistent improvement and the power of practice. Competitive progr
 
 ### 🌐 Connect with Me:
 <p align="left">
-<a href="https://github.com/anwarhossen57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="anwarhossen57" height="30" width="40" /></a>
-<a href="https://www.facebook.com/anwarhossen57/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anwarhossen" height="30" width="40" /></a>
+<a href="https://github.com/anwarhossen57" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+</a>
+<a href="https://www.facebook.com/yourusername" target="_blank">
+  <img src="https://img.shields.io/badge/FACEBOOK-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="your-portfolio-link" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-pink?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio" />
+</a>
 </p>
 
 ---
