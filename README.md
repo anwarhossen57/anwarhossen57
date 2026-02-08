@@ -27,9 +27,9 @@ I am also passionate about problem-solving. I enjoy tackling complex algorithms 
 ---
 
 ### 🚀 Problem Solving Profiles:
-* 📊 **CODEFORCES:** [Codeforces](https://codeforces.com/profile/anwarhossen57)
+* 📊 **CODEFORCES:** [Codeforces](https://codeforces.com/profile/Anwar_Hossen1)
   > I am constantly pushing myself to solve increasingly complex problems. Competitive programming isn't just a hobby; it's a passion that sharpens my problem-solving mindset and keeps me challenged. Check out my Codeforces profile and follow my journey!
-* 🧠 **LEETCODE:** [LeetCode](https://leetcode.com/anwarhossen57/)
+* 🧠 **LEETCODE:** [LeetCode](https://leetcode.com/u/anwar53/)
   > I'm also active on LeetCode, tackling daily challenges and exploring various data structures and algorithms. Stay tuned for my profile link soon! 🔥
 
 ---
