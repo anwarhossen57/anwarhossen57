@@ -28,9 +28,7 @@ I am also passionate about problem-solving. I enjoy tackling complex algorithms 
 
 ### 🚀 Problem Solving Profiles:
 * 🔵 [![CODEFORCES](https://img.shields.io/badge/CODEFORCES-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Anwar_Hossen1)
-  > I am constantly pushing myself to solve increasingly complex problems.
 * 🟠 [![LEETCODE](https://img.shields.io/badge/LEETCODE-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/anwar53/)
-  > I'm also active on LeetCode, tackling daily challenges and exploring various algorithms.
 * 🟤 [![CODECHEF](https://img.shields.io/badge/CODECHEF-brown?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/anwar_hossen53)
 * 🟡 [![BEECROWD](https://img.shields.io/badge/BEECROWD-yellow?style=for-the-badge&logo=beecrowd&logoColor=black)](https://judge.beecrowd.com/en/profile/1010360)
 
@@ -49,15 +47,16 @@ I believe in consistent improvement and the power of practice. Competitive progr
 
 ### 🌐 Connect with Me:
 <p align="left">
+<a href="https://huggingface.co/spaces/anwarhossen57/my-portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace Portfolio" />
+</a>
 <a href="https://github.com/anwarhossen57" target="_blank">
   <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
-</a>
-<a href="https://www.facebook.com/anwarhossen57/" target="_blank">
-  <img src="https://img.shields.io/badge/FACEBOOK-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 <a href="https://www.linkedin.com/in/anwarhossen57/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<a href="https://www.facebook.com/anwarhossen57/" target="_blank">
+  <img src="https://img.shields.io/badge/FACEBOOK-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
 </p>
-
----
