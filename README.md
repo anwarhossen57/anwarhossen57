@@ -47,7 +47,7 @@ I believe in consistent improvement and the power of practice. Competitive progr
 
 ### 🌐 Connect with Me:
 <p align="left">
-<a href="https://huggingface.co/spaces/anwarhossen57/my-portfolio" target="_blank">
+<a href="https://anwarhossen57-my-portfolio.static.hf.space" target="_blank">
   <img src="https://img.shields.io/badge/PORTFOLIO-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace Portfolio" />
 </a>
 <a href="https://github.com/anwarhossen57" target="_blank">
