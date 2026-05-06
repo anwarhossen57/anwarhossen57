@@ -39,7 +39,7 @@ I enjoy tackling complex algorithms and data structures, regularly participating
 
 ### 🌐 Connect with Me:
 <p align="left">
-<a href="https://anwarhossen57-my-portfolio.static.hf.space/index.html" target="_blank">
+<a href="https://bit.ly/anwar-hossen" target="_blank">
   <img src="https://img.shields.io/badge/PORTFOLIO-FF6B4E?style=for-the-badge" alt="Portfolio" />
 </a>
 <a href="https://github.com/anwarhossen57" target="_blank">
